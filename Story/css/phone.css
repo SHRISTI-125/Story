@@ -1,0 +1,26 @@
+
+/*Navigation*/
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+}
+
+/*Home-section*/
+#home{
+    height: 320px;
+    padding: 40px 8px;
+    
+}
+#home:before{
+    height: 498px;
+}
+#home p{
+    font-size: 12px;
+}
+.h1{
+    font-size: 12px;
+}

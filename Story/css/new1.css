@@ -1,0 +1,33 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+
+#unknown-shadow{
+    border: 10px;
+    background-color: darkmagenta;
+    top: 5%;
+    text-align: center;
+    text-decoration: solid;
+    opacity: 0.5rem;
+    text-emphasis-color: white;
+    text-decoration-color: white;
+}
+.h1{
+    text-decoration-color: beige;
+
+}
+#shadow1{
+    border-radius: 10%;
+}
+#shadow1 img{
+    opacity: 0.7rem;
+}
+#unkown-shadow p{
+    color: aliceblue;
+    text-align: center;
+    font: 2em sans-serif;
+}
+#nothing{
+    text-decoration-color: brown;
+}
